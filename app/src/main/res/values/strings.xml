@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Wereable APK</string>
+    <string name="welcome_message">LLovas, Bienvenido al Test de Conexion.
+        Click en consulta HTML Plc desde web Server.
+    </string>
+    <string name="fetch_text">Consulta</string>
+    <string name="clear_text">Limpiar</string>
+    <string name="connection_error">Sin Conexión.</string>
+    <string name="fetch_cancelled">Consulta Cancelada.</string>
+
+
+
+</resources>

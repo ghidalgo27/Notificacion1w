@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "487806685668",
+    "firebase_url": "https://controlmonitoreo-726dd.firebaseio.com",
+    "project_id": "controlmonitoreo-726dd",
+    "storage_bucket": "controlmonitoreo-726dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487806685668:android:2c9a2895262d02b3",
+        "android_client_info": {
+          "package_name": "com.example.analistademejora.notificacion1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487806685668-ocqguo9qcsg13c95euh2f3rdjn2edjsf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.analistademejora.notificacion1",
+            "certificate_hash": "bdb913d6f64534388f9a00b07afc38677c2195ab"
+          }
+        },
+        {
+          "client_id": "487806685668-ek3a6r0p44g9ne3veipvkp56a0iuotgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfTe68TREUjGIG3FQ-B4HuXyT79wbo6Vw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487806685668-ek3a6r0p44g9ne3veipvkp56a0iuotgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
